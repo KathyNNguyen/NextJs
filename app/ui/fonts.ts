@@ -1,9 +1,9 @@
-import { Inter, Lusitana } from 'next/font/google';
+import { Inter, Zen_Dots } from 'next/font/google';
 
 export const inter = Inter({ subsets: ['latin'] });
 
-export const lusitana = Lusitana({
-    weight: ['400', '700'],
+export const zen_dots = Zen_Dots({
+    weight: ['400'],
     subsets: ['latin'],
   });
   
